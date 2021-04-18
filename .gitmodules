@@ -1,0 +1,3 @@
+[submodule "workadventure-xce"]
+	path = workadventure-xce
+	url = git@github.com:mobanisto/workadventure-xce.git
